@@ -1,4 +1,4 @@
 RouletteSimulator
 =================
 
-Graphic C++ Roulette Simulator
+Graphic C++ Roulette Simulator using SFML graphic library.
